@@ -1,3 +1,3 @@
 print("hello this is greate")
-x= 3
+x= 5
 a = 6
